@@ -7,7 +7,7 @@ let areasInfo = [
   { name: "Ivan", area: [50, 36] },
   { name: "Dyma", area: [68, 140] },
   { name: "Vasya", area: [151, 12] },
-  { name: "Vasya", area: [151, 12] },
+  { name: "Vasya", area: [151, 12] },b
 ];
 
 let totalArea = 0;
